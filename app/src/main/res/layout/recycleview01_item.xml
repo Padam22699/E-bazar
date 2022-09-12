@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    app:cardPreventCornerOverlap="false"
+    app:shapeAppearance="@style/Roundend"
+    android:layout_marginHorizontal="5dp"
+    app:cardElevation="50dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/imageR01"
+            android:layout_width="130dp"
+            android:layout_height="160dp"
+            android:scaleType="centerCrop"
+            app:shapeAppearance="@style/Roundend"
+            app:srcCompat="@drawable/casual" />
+
+        <TextView
+            android:id="@+id/titleR01"
+            android:maxLines="1"
+            android:layout_marginHorizontal="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+
+        <TextView
+            android:maxLines="1"
+
+            android:id="@+id/priceR01"
+            android:layout_marginHorizontal="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:inputType="number"
+            android:text="TextView"
+            android:textColor="#000000"
+            android:textSize="16sp"
+            tools:ignore="TouchTargetSizeCheck" />
+
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>

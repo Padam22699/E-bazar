@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/wedig-user/.gradle/caches/transforms-3/cd134dd3663ca2a9cc7bc6e43fcdd7e7/transformed/ImageSlideshow-0.1.0/res/drawable/default_selected_dot.xml" value="0.1175" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.208" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/drawable/bottonnav_item_selected.xml" value="0.1" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/drawable/cardcorner_radiou.xml" value="0.18" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/drawable/exit.xml" value="0.1" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/drawable/navibtn.xml" value="0.1095" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/drawable/phone.xml" value="0.1605" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/drawable/profile.xml" value="0.191" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/drawable/user.xml" value="0.2115" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/drawable/user01.xml" value="0.185" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/layout/activity_desh_board.xml" value="0.18" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/layout/activity_deshboard.xml" value="0.22" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/layout/activity_grid_item.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/layout/activity_payment.xml" value="0.22" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/layout/activity_recycle.xml" value="0.22" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/layout/activity_registration.xml" value="0.22" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/layout/activity_slash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/layout/activity_viewallproduct01.xml" value="0.15604959384352288" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/layout/fragment_home_fragment.xml" value="0.18" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/layout/fragment_orderd_.xml" value="0.15" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/layout/fragment_profile_fragment.xml" value="0.21" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/layout/fragment_support_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/layout/fragment_viweall01.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/layout/grideitem_clicked.xml" value="0.25" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/layout/gridview_item.xml" value="0.25" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/layout/nav_header.xml" value="0.25" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/layout/recycleview01_item.xml" value="0.25" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/layout/recycleview02_item.xml" value="0.19" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/layout/viewall01_item.xml" value="0.25" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/menu/nav_menu.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1545" />
+        <entry key="..\:/Users/wedig-user/AndroidStudioProjects/EBazar/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center"
+    app:cardPreventCornerOverlap="false"
+    app:shapeAppearance="@style/Roundend"
+
+    app:cardElevation="16dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"/>
+
+    <ImageView
+        android:id="@+id/Grid_image"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:scaleType="centerCrop"
+        android:src="@drawable/pic2" />
+
+    <TextView
+        android:id="@+id/gride_title"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"
+        android:background="#81FCE300"
+        android:elevation="100dp"
+        android:padding="4dp"
+        android:text="@string/hello_apple"
+        android:textAlignment="center"
+        android:textColor="@color/white" />
+
+</com.google.android.material.card.MaterialCardView>

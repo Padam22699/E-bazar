@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/Orders"
+        android:icon="@drawable/order"
+        android:title="@string/orderd" />
+
+    <item
+        android:id="@+id/Profiles"
+        android:icon="@drawable/user01"
+        android:title="@string/profile" />
+    <item
+        android:id="@+id/Support"
+        android:icon="@drawable/support"
+        android:title="@string/support" />
+
+
+</menu>
